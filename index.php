@@ -20,6 +20,7 @@ require "header.php";
 </main>
 
 <?php
+//aranaya ratra was here
 
 require "footer.php";
 
